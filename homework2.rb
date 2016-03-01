@@ -1,5 +1,5 @@
 c = 1
-for b in 1..20 do
+for.each b in 1..20 do
   c = c * b
   puts c
 end
